@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PROTOTYPE</string>
+
+    <string name="login">Masuk</string>
+    <string name="welcome_login">Hi, Selamat datang kembali !</string>
+    <string name="email">Email :</string>
+    <string name="password">Password :</string>
+    <string name="forget">Lupa Password?</string>
+    <string name="not_have_acc">Belum punya akun?</string>
+    <string name="registration">Daftar</string>
+
+    <string name="welcome_registration">Hi, Selamat datang di Derma App</string>
+    <string name="username">Username :</string>
+    <string name="have_acc">Sudah punya akun?</string>
+
+    <string name="hallo">Hallo,</string>
+    <string name="scan_indication">Periksa Gejala</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="prediction">Prediksi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

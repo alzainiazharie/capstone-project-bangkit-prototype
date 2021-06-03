@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956465401297",
+    "project_id": "b21-cap0391",
+    "storage_bucket": "b21-cap0391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956465401297:android:24e29304d51414e49564f0",
+        "android_client_info": {
+          "package_name": "com.bangkit.dermaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956465401297-7pqsict9q7t1110477a1meup534a5g8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCokwtIXqKYFSWu_5U-i2ZlaD4YH7QwrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956465401297-7pqsict9q7t1110477a1meup534a5g8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
